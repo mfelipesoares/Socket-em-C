@@ -13,4 +13,6 @@ Um socket de rede é uma interface de programação que permite que processos de
 <div align="center">
 <img src="img/Diagrama.png" width="550px" height="680px">
 </div>
-<h2>📜 Linguagem Utilizada</h2>
+
+          
+          
